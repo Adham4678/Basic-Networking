@@ -1,0 +1,7 @@
+C:\Users\moham\source\repos\Magnetic Field\Magnetic Field\bin\Debug\Magnetic Field.exe.config
+C:\Users\moham\source\repos\Magnetic Field\Magnetic Field\bin\Debug\Magnetic Field.exe
+C:\Users\moham\source\repos\Magnetic Field\Magnetic Field\bin\Debug\Magnetic Field.pdb
+C:\Users\moham\source\repos\Magnetic Field\Magnetic Field\obj\Debug\Magnetic Field.csprojAssemblyReference.cache
+C:\Users\moham\source\repos\Magnetic Field\Magnetic Field\obj\Debug\Magnetic Field.csproj.CoreCompileInputs.cache
+C:\Users\moham\source\repos\Magnetic Field\Magnetic Field\obj\Debug\Magnetic Field.exe
+C:\Users\moham\source\repos\Magnetic Field\Magnetic Field\obj\Debug\Magnetic Field.pdb
